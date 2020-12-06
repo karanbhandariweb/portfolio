@@ -15,7 +15,7 @@ const Home=() =>
             <div className="row">
         <div className="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column tx">
             <h1 className="text-center">Hello I am Karan Bhandari,</h1>
-            <h3 className="text-center my-3">I am a Web Developer/Designer</h3>
+            <h3 className="text-center my-3">I am a Front-end Developer/Designer</h3>
             <div className="text-center my-2">
                 <a href="http://karanbhandariweb.github.io/pdfviewer" className="btn">Get Resume</a>
             </div>
