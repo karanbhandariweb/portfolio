@@ -42,11 +42,11 @@ const MyWork = () =>
      <Card
     imgsrc={cms}
     title="Coming Soon"
-    link= "/work"/>
+    link= "https://karanbhandariweb.github.io/portfolio"/>
      <Card
     imgsrc={cmss}
     title="Coming Soon"
-    link="/work"/>
+    link="https://karanbhandariweb.github.io/portfolio"/>
     </div></div></div></div>
     </>)
 }
