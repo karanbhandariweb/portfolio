@@ -1,6 +1,6 @@
 {
   "name": "kbfront",
-  "homepage": "https://karanbhandariweb.github.io/personalportfolio/",
+  "homepage": "https://karanbhandariweb.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:9000",
